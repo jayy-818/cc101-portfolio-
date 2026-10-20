@@ -46,7 +46,7 @@ END
  
 ## My Workspace
  
-!DEKSTOP-LF*QEJ9(images/my-pc.jpg)
+!DEKSTOP-LF*QEJ9(/images/my-pc.jpg)
  
 ---
  
